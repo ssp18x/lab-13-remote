@@ -1,0 +1,54 @@
+p {
+    color: #0000FF;
+    font-size: 12px;
+    margin: 20px;
+    font-family: Sans-Serif;
+    text-decoration: line-through;
+}
+
+body {
+    font-size: 14px;
+    color: navy;
+    font-family: Sans-Serif;
+    background: white url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-447073.jpg) no-repeat ;
+}
+
+h1 {
+    color: #191970 ;
+    background-color: #888888;
+    font-family: Sans-Serif;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: red;
+  }
+
+h2,.intro {
+   
+    background-color: #888888;
+    font-family: Sans-Serif;
+    text-decoration: underline;
+}
+
+
+.intro {
+    color:#191970;
+    font-family: Sans-Serif;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: black;
+  }
+}
+
+.spotlight {
+    background-color:#FEFE22; 
+}
+
+.active {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black; 
+}
+
